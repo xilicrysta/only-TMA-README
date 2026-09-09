@@ -1,7 +1,7 @@
 <div align="center">
   <img src="tma_flutter/assets/images/TMAicon.png" width="150" alt="TMA Logo">
   <h1>Tempo Mental Arithmetic</h1>
-  <p><strong>「操作性が悪く高額」という既存アプリの壁を壊す。<br>珠算・暗算の中上級者の相棒となる、次世代の完全無料・総合暗算トレーニングアプリ</strong></p>
+  <p><strong>「有料なのに操作性が悪い」という既存アプリの壁を壊す。<br>珠算・暗算の中上級者の相棒となる、次世代の完全無料・総合暗算トレーニングアプリ</strong></p>
   
   <p>
     <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">

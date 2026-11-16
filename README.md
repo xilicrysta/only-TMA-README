@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="tma_flutter/assets/images/TMAicon.png" width="150" alt="TMA Logo">
+  <img src="images/logo.png" width="150" alt="TMA Logo">
   <h1>Tempo Mental Arithmetic</h1>
   <p><strong>「有料なのに操作性が悪い」という既存アプリの壁を壊す。<br>珠算・暗算の中上級者の相棒となる、次世代の完全無料・総合暗算トレーニングアプリ</strong></p>
   
@@ -48,13 +48,13 @@ TMAは、ただのフラッシュ暗算アプリではなく、珠算学習者�
 ## スマホUI (Mobile UI)
 
 <div align="center">
-  <img src="tma_flutter/assets/images/app%20store%20画像/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-06-21%20at%2001.44.51.png" width="200">
+  <img src="images/mobile_1.png" width="200">
   &nbsp;&nbsp;
-  <img src="tma_flutter/assets/images/app%20store%20画像/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-06-21%20at%2001.45.16.png" width="200">
+  <img src="images/mobile_2.png" width="200">
   &nbsp;&nbsp;
-  <img src="tma_flutter/assets/images/app%20store%20画像/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-06-21%20at%2001.45.33.png" width="200">
+  <img src="images/mobile_3.png" width="200">
   &nbsp;&nbsp;
-  <img src="tma_flutter/assets/images/app%20store%20画像/Simulator%20Screenshot%20-%20iPhone%2017%20-%202026-06-21%20at%2001.45.43.png" width="200">
+  <img src="images/mobile_4.png" width="200">
 </div>
 
 ---
@@ -67,7 +67,7 @@ TMAは、ただのフラッシュ暗算アプリではなく、珠算学習者�
 
 <div align="center">
   <br>
-  <img src="tma_flutter/assets/images/ランク画面.png" width="700" alt="ランクモード画面">
+  <img src="images/rank_screen.png" width="700" alt="ランクモード画面">
 </div>
 
 ---
